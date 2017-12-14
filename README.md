@@ -4,6 +4,7 @@ The list of tools, programming libraries and APIs used in web-scraping.
 
 * [Python](http://github.com/lorien/web-scraping/blob/master/python.md)
 * [PHP](http://github.com/lorien/web-scraping/blob/master/php.md)
+* [Perl](http://github.com/lorien/web-scraping/blob/master/perl.md)
 * [Ruby](http://github.com/lorien/web-scraping/blob/master/ruby.md)
 * [Java](http://github.com/lorien/web-scraping/blob/master/java.md)
 * [JavaScript](http://github.com/lorien/web-scraping/blob/master/javascript.md)
