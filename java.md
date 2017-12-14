@@ -34,6 +34,11 @@ This list contains Java libraries related to web scraping and data processing
 * Full Featured Crawlers
   * [ACHE Crawler](https://github.com/ViDA-NYU/ache)
   * [Apache Nutch](http://nutch.apache.org/)
+  * [Heritrix](http://www.crawler.archive.org/index.html)
+    * quite complex architecture + dormant project + seldomly supported.
+  * [Norconex Collector](https://www.norconex.com/enterprise-search-software/open-source-crawlers/)
+    * actively developped + very fast and kind support.
+
 
 * Other
   * [Crawler4j](https://github.com/yasserg/crawler4j)
